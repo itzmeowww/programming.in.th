@@ -31,8 +31,8 @@
     "cross-env": "^7.0.2",
     "emotion-theming": "^10.0.27",
     "file-saver": "^2.0.2",
-    "firebase-admin": "^8.13.0",
     "firebase": "^7.15.5",
+    "firebase-admin": "^8.13.0",
     "formik": "^2.1.4",
     "intersection-observer": "^0.11.0",
     "lodash": "^4.17.15",
@@ -60,6 +60,7 @@
     "yup": "^0.29.1"
   },
   "devDependencies": {
+    "@tailwindcss/ui": "^0.4.0",
     "@types/lodash": "^4.14.157",
     "@types/next": "^9.0.0",
     "@types/nprogress": "^0.2.0",
@@ -76,8 +77,10 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.3",
     "husky": "^4.2.5",
+    "postcss-preset-env": "^6.7.0",
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
+    "tailwindcss": "^1.6.0",
     "typescript": "^3.9.6"
   },
   "scripts": {

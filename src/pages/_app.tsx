@@ -11,6 +11,7 @@ import { GlobalStyle } from 'design'
 import { customTheme } from 'design/theme'
 
 import 'assets/css/prism.css'
+import 'design/tailwind.css'
 
 let timeout: any
 
